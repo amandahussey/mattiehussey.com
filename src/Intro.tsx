@@ -27,7 +27,7 @@ function Intro() {
           alignSelf: "flex-start",
         }}
       />
-      <Stack>
+      <Stack spacing={3}>
         <Typography variant="h3" fontFamily="Major Mono Display">
           Madelyn Hussey
         </Typography>
