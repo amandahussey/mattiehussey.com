@@ -32,7 +32,7 @@ function Intro() {
           Madelyn Hussey
         </Typography>
         <Typography variant="subtitle2" textAlign="right">
-          <i>Mattie</i> for short
+          But you can call me Mattie.
         </Typography>
       </Stack>
       <img
