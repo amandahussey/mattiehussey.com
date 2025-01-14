@@ -27,11 +27,11 @@ function Intro() {
           alignSelf: "flex-start",
         }}
       />
-      <Stack spacing={3}>
-        <Typography variant="h3" fontFamily="Major Mono Display">
+      <Stack spacing={3} width="100%">
+        <Typography variant="h3" fontFamily="Major Mono Display" pl={3}>
           Madelyn Hussey
         </Typography>
-        <Typography variant="subtitle2" textAlign="right">
+        <Typography textAlign="right" pr={3}>
           But you can call me Mattie.
         </Typography>
       </Stack>
